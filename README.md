@@ -1,3 +1,3 @@
 # testgit
 some changes from remote
-create conflict
+some other changes from remote
